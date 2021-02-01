@@ -1,0 +1,1 @@
+{"version":3,"file":"pixel.js","sourceRoot":"","sources":["../../src/render/pixel.ts"],"names":[],"mappings":"AACA,MAAM,KAAK;IAIP,YAAY,QAAe,IAAI,KAAK,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC;QAC5C,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CAEJ"}
